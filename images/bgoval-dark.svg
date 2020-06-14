@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2424px"
+   height="867px"
+   viewBox="0 0 2424 867"
+   version="1.1"
+   preserveAspectRatio="none"
+   id="svg10"
+   sodipodi:docname="bgoval-dark.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Oval</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="0.56971947"
+     inkscape:cx="1212"
+     inkscape:cy="433.5"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+  <title
+     id="title2">Oval</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <g
+     id="Design"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd">
+    <g
+       id="Home"
+       transform="translate(-36.000000, -2092.000000)"
+       fill="#1a237e"
+       fill-rule="nonzero">
+      <g
+         id="Verify"
+         transform="translate(36.000000, 1000.000000)">
+        <ellipse
+           id="Oval"
+           cx="1212"
+           cy="1525.5"
+           rx="1212"
+           ry="433.5" />
+      </g>
+    </g>
+  </g>
+  <path
+     style="opacity:1;fill:#2171b6;fill-opacity:1;stroke:#2171b6;stroke-width:1.75524986;stroke-opacity:1"
+     d="m 1097.3822,865.87731 c -5.7923,-0.27809 -28.6983,-1.34081 -50.9023,-2.36159 C 699.79095,847.57719 382.41837,774.71332 188.16278,666.45927 166.14894,654.19147 120.86422,623.97243 103.03316,609.65126 82.169996,592.89482 55.083457,565.38275 41.068942,546.71361 26.841391,527.76067 9.6944459,494.08806 4.4224151,474.74837 c -5.5245259,-20.26594 -5.5245259,-62.2308 0,-82.49674 C 9.6944459,372.91194 26.841391,339.23933 41.068942,320.28639 159.76691,162.16538 522.97781,40.066514 970.12657,7.9695384 1060.2036,1.5036791 1082.9487,0.83091962 1211.4734,0.83091962 c 128.4655,0 155.6846,0.80050908 242.2245,7.12376788 411.2626,30.0499535 749.1124,133.4733325 894.0916,273.7013525 40.059,38.74614 61.6391,72.8395 72.3356,114.27995 3.1586,12.2364 4.0329,20.37989 4.0329,37.56401 0,24.87507 -3.8184,43.26463 -13.8495,66.70091 -36.2738,84.74822 -146.3692,166.1268 -309.6991,228.91819 -199.9879,76.88453 -460.359,123.57523 -759.2475,136.15105 -36.8472,1.55036 -215.0942,1.99394 -243.9797,0.60716 z"
+     id="path825"
+     inkscape:connector-curvature="0" />
+</svg>
